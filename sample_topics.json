@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": "user1",
+    "sub_topic": "name",
+    "topic": "basic_info",
+    "memo": "조현호"
+  },
+  {
+    "topic": "basic_info",
+    "user_id": "user1",
+    "sub_topic": "age",
+    "memo": "29"
+  },
+  {
+    "sub_topic": "foods",
+    "topic": "interest",
+    "user_id": "user1",
+    "memo": "사용자는 치킨과 소고기를 좋아함"
+  },
+  {
+    "user_id": "user1",
+    "sub_topic": "previous_projects",
+    "topic": "work",
+    "memo": "어제(2025/05/03) 만든 프로그램 유지보수하느라 많은 시간 소모됨"
+  },
+  {
+    "user_id": "user1",
+    "sub_topic": "psychological_state",
+    "topic": "work",
+    "memo": "프로그램 문제로 인해 스트레스 느낌, \"젠장\" 표현에서 불만과 피로감 추정"
+  },
+  {
+    "sub_topic": "feelings",
+    "topic": "psychological",
+    "user_id": "user1",
+    "memo": "프로그램 문제가 생겨서 불만족감 표현 (\"젠장\")"
+  },
+  {
+    "topic": "life_event",
+    "user_id": "user1",
+    "sub_topic": "appointment",
+    "memo": "사용자 약속이 2025/05/11에 취소된 것으로 추정됨 (내일)"
+  },
+  {
+    "sub_topic": "social_activities",
+    "user_id": "user1",
+    "topic": "psychological",
+    "memo": "내일 예정된 약속이 취소된 것으로 보임"
+  },
+  {
+    "sub_topic": "appointment_change",
+    "topic": "life_event",
+    "user_id": "user1",
+    "memo": "내일 약속 취소 가능성 있음 (2025/05/08)"
+  }
+]
